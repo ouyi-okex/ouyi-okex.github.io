@@ -10,7 +10,7 @@ tags:
     - JavaScript
     - 译
 ---
-
+[okex](https://www.jjahnke.net)
 
 JavaScript 有着很奇怪的命名史。
 
