@@ -12,6 +12,9 @@ tags:
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/22561084)，转载请保留链接 ;)
 
+欧易
+[欧易](https://www.jjahnke.net)
+
 今天微信又刷爆了我的朋友圈 —— 小程序，之前传说的应用号。
 
 不过这篇不谈小程序的技术细节，也不去猜测（因为知道得很清楚……），
