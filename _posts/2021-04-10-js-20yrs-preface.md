@@ -10,11 +10,16 @@ tags:
 ---
 
 >  [币安交易所 2023更新免翻墙官网地址](https://accounts.bitechan.pub/zh-CN/register?ref=188689088)
->  
->  [币安交易所 2023更新免翻墙官网地址2](https://accounts.bitechan.cloud/zh-CN/register?ref=188689088)
->  
->  [币安交易所 2023更新免翻墙官网地址3](https://accounts.bitechan.info/zh-CN/register?ref=188689088)
->  
+
+
+>  [币安交易所 2023更新免翻墙官网地址2](https://accounts.binancezh.jp/zh-CN/register?ref=188689088)
+
+
+>  [币安交易所 2023更新免翻墙官网地址3](https://accounts.bitechan.cloud/zh-CN/register?ref=188689088)
+
+
+>  [币安交易所 2023更新免翻墙官网地址4](https://accounts.bitechan.info/zh-CN/register?ref=188689088)
+>                                    
 >  如果以上链接都失效可以下载安装包注册
 >  
 >  币安 安卓app 提供安装包 网址复制到浏览器下载
