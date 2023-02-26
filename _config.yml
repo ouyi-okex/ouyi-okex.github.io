@@ -7,7 +7,8 @@ description: "币安是全球领先的区块链生态系统，旗下拥有一系
 keyword: "币安, binance, 交易所, bian, 币安官网, app下载"
 url: bian-binance.github.io
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-
+# Google Analytics
+google_analytics: G-RV987E07HN
 # Publish posts or collection documents with a future date.
 future: true
 
