@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "币安账户注册 手机App下载 "
+title:        "币安交易所Binance官网网址 "
 author:       "Hux"
 header-style: text
 catalog:      true
