@@ -9,7 +9,7 @@ tags:
     - binance
 ---
 
->  [币安交易所 2023更新免翻墙官网地址](https://accounts.bitechan.wiki/zh-CN/register?ref=188689088)
+>  [币安交易所 2023更新免翻墙官网地址](https://accounts.bitechan.pub/zh-CN/register?ref=188689088)
 >  
 >  [币安交易所 2023更新免翻墙官网地址2](https://accounts.bitechan.cloud/zh-CN/register?ref=188689088)
 >  
