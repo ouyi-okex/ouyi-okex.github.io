@@ -99,10 +99,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+
     { title: "火币官网网址交易所", href: "https://www.jjahnke.net/huobi/" },
     { title: "binance币安官网网址", href: "https://www.jjahnke.net/bian-binance/" },
     { title: "okx交易所欧意ouyi", href: "ouyi-okex.github.io" },
